@@ -13,7 +13,7 @@ public class BrowserTest {
 		
 	
 		//URL of the selected website
-        String baseUrl = "http://www.google.com";
+        //String baseUrl = "http://www.google.com";
 
         // launch Google Chrome and direct it to the Base URL
         driver.get("http://www.google.com");
